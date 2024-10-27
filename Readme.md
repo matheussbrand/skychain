@@ -1,12 +1,16 @@
-<div style="text-align: center;">
+<div align="center">
    <img src="./img/logo.png" alt="SkyChain" title="SkyChain" style="width: 180px; height: auto;">
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <h2>SkyChain</h2>
     <p>API and Cloud Integration Framework</p>
-    <a class="fa-brands fa-linkedin" style="font-size: 30px;" href="https://www.linkedin.com/in/matheussbrandao/" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/matheussbrandao/" target="_blank" title="LinkedIn">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+
 </div>
+
 
 
 <div align = center>
