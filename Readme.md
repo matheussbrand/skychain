@@ -1,10 +1,8 @@
 <div style="text-align: center;">
-    <img src="./img/logo.png" alt="SkyChain" title="SkyChain" style="width: 180px; height: auto;">
+   <img src="./img/logo.png" alt="SkyChain" title="SkyChain" style="width: 180px; height: auto;">
 </div>
 
-
 <div style="text-align: center;">
-    <h2>SkyChain</h2>
     <p>API and Cloud Integration Framework</p>
     <a class="fa-brands fa-linkedin" style="font-size: 30px;" href="https://www.linkedin.com/in/matheussbrandao/" target="_blank"></a>
 </div>
@@ -15,10 +13,13 @@
 [![Badge License]][License]   [![Badge Likes]][#]
 
 <i class="fa-brands fa-google-drive" style="font-size: 25px;"></i>  <i class="fa-solid fa-cloud" style="font-size: 25px;"></i>    <i class="fa-brands fa-aws" style="font-size: 25px;"></i>
+<div style="text-align: center;">
+
 
 
 <div style="text-align: center;">
     <p>Increasingly, cloud environments and APIs are growing more frequent, both in terms of efficiency and technological innovation. However, we need to enhance ways to ensure better security for data traffic in an increasingly connected world.<br>
+    <h2>SkyChain</h2>
     This framework was developed as part of a graduate program in software engineering.</p>
 </div>
 
