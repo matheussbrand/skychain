@@ -47,7 +47,7 @@
 </div>
 
 <div style="text-align: center;">
-    <h5>Solutions</h5>
+    <h2>Solutions</h2>
     
 <p> ● Simplified Authentication and Authorization: Implement OAuth 2.0 using external authentication providers (Google or Auth0) to simplify the integration process and ensure secure access.<br>
 <p>     ● Role-Based Access Control: Define basic roles (Admin, Regular User) and manage access through RBAC using free or low-cost tools.<br>
@@ -60,7 +60,7 @@
 </p>
 
 <div style="text-align: center;">
-    <h5>Install</h5>
+    <h2>Install</h2>
     <p><code>git clone https://github.com/matheussbrand/skychain.git</code></p>
     <p><code>cd skychain</code></p>
     <p><code>pip install -r requirements.txt</code></p>
