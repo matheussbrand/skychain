@@ -3,6 +3,7 @@
 </div>
 
 <div style="text-align: center;">
+    <h2>SkyChain</h2>
     <p>API and Cloud Integration Framework</p>
     <a class="fa-brands fa-linkedin" style="font-size: 30px;" href="https://www.linkedin.com/in/matheussbrandao/" target="_blank"></a>
 </div>
@@ -19,7 +20,6 @@
 
 <div style="text-align: center;">
     <p>Increasingly, cloud environments and APIs are growing more frequent, both in terms of efficiency and technological innovation. However, we need to enhance ways to ensure better security for data traffic in an increasingly connected world.<br>
-    <h2>SkyChain</h2>
     This framework was developed as part of a graduate program in software engineering.</p>
 </div>
 
