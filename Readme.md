@@ -6,7 +6,7 @@
     <h2>SkyChain</h2>
     <p>API and Cloud Integration Framework</p>
     <a href="https://www.linkedin.com/in/matheussbrandao/" target="_blank" title="LinkedIn">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 
 </div>
