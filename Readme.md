@@ -68,7 +68,7 @@
 
 
 <!-- inserir link -->
-<a href="https://www.youtube.com" target="_blank">
+<a href="[https://www.youtube.com](https://youtu.be/ulZ-dasx3-g)" target="_blank">
     <i class="fa-brands fa-youtube"></i> Check out the video (available only in Brazilian Portuguese)
 </a>
 
